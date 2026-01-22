@@ -18,7 +18,7 @@ I’m deeply focused on **React native ,javascript ,css m html **.
     <img src="https://img.shields.io/badge/Linkedin-vilmar2025-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://vilmar2025.github.io/PORTIFOLIO-VILMAR/">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/meu-portifolio-brightgreen?style=for-the-badge" />
 </a>
 
 

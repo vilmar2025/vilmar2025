@@ -17,7 +17,9 @@ I’m deeply focused on **React native ,javascript ,css m html **.
     <a href="https://www.linkedin.com/in/vilmarfilhodev/">
     <img src="https://img.shields.io/badge/Linkedin-vilmar2025-181717?style=for-the-badge&logo=github" />
   </a>
-
+  <a href="https://vilmar2025.github.io/PORTIFOLIO-VILMAR/">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" />
+</a>
 
 
 ---
